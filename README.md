@@ -16,7 +16,7 @@ A fake news detection system using OpenAI's GPT models with prompt engineering.
 
 1. Clone this repository
 2. Install required packages: `pip install -r requirements.txt`
-3. Set your OpenAI API key: `export OPENAI_API_KEY="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"`
+3. Set your OpenAI API key: `export OPENAI_API_KEY="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"`
 
 ## Usage
 
