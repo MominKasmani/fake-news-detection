@@ -16,11 +16,11 @@ A fake news detection system using OpenAI's GPT models with prompt engineering.
 
 1. Clone this repository
 2. Install required packages: `pip install -r requirements.txt`
-3. Set your OpenAI API key: `export OPENAI_API_KEY="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"`
+3. Set your OpenAI API key: `export OPENAI_API_KEY="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"`
 
 ## Usage
 
 1. Download the FakeNewsNet dataset
-2. Run: `python main.py --dataset_path /path/to/fakenewsnet`
+2. Run: `python main.py`
 
 Results will be saved to the `results/` directory.
