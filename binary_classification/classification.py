@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get API key from environment
-openai.api_key = "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"
+openai.api_key = "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"
 
 from prompts import (
     improved_zero_shot_template,
